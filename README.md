@@ -25,6 +25,7 @@ Clone o repositório:
 git clone https://github.com/rotadorole01/autentica-o-web-Yasmin.git
 cd autentica-o-web-Yasmin
 npm install
+npm start
 ```
 
 ## Configuração do ambiente
