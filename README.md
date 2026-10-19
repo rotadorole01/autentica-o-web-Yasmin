@@ -22,8 +22,8 @@ Projeto prático de segurança e autenticação web desenvolvido com Node.js, Ex
 Clone o repositório:
 
 ```bash
-git clone https://github.com/Gustavo18henrique/autenticacao-web.git
-cd autenticacao-web
+git clone https://github.com/rotadorole01/autentica-o-web-Yasmin.git
+cd autentica-o-web-Yasmin
 npm install
 ```
 
